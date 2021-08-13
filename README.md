@@ -7,7 +7,7 @@ The Objective of this analysis was two-fold.  First we analyzed our data to dete
 The following are the major oints from this analysis:
     * Approximately 30% of the company's employees are expected to retire in the near future creating a massive employee gap.
     * From the employees nearing retirement, approximately 70% of them are in senior or leadership roles.  These roles require more extensive training and will be harder to fill.
-    * The hardest hit departments are Development and Production, seen [here](url), accounting for approximatley 24% of all retiring employees.
+    * The hardest hit departments are Development and Production, seen [here](https://github.com/kowiak89/Pewlett-Hackard-Analysis/blob/main/Table_Images/retirement_dept_count.png), accounting for approximatley 24% of all retiring employees.
     * The number of eployees eligible for the mentorship program (about 1500) may not be sufficient to help train the 90,000 roles that may soon be available.
 
 ## Summary:
